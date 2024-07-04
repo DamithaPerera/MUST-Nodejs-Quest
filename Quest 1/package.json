@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "puppeteer": "^22.12.1"
   }
 }
